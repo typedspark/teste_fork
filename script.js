@@ -36,6 +36,13 @@ const hotelData = [
     pricing: 600.0,
     rate: 5,
   },
+  {
+    local: "Recife",
+    name: "Hotel Villa Reali",
+    src: "https://images.pexels.com/photos/594077/pexels-photo-594077.jpeg?",
+    pricing: 250.0,
+    rate: 3.6,
+  },
 ];
 
 const hotelListComponent = document.getElementById("card-list");
